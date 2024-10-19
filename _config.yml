@@ -1,5 +1,5 @@
-title: Researcher
-url: "https://ankitsultana.com"
+title: Aris Antoniadis
+url: "https://arisantoniadis.com"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -8,17 +8,15 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://www.youtube.com/watch?v=pUyrgEtzbvM"
+footer_text: "By Aris Antoniadis"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "Photos"
+   link: "{{ site.baseurl }}/photos/"
+ - name: "Blog"
+   link: "https://www.frontalfoundations.com/blog"

@@ -59,7 +59,7 @@
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
-            <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+            <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}/">Aris Antoniadis</a>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
@@ -83,7 +83,7 @@
         {% endif %}
                 {{ content }}
                 {% if site.footer == true %}
-                    <hr />
+                    <hr>
                     <p style="text-align: center; margin-bottom: 10px">
                     <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
                     </p>
