@@ -1,6 +1,6 @@
 title: Aris Antoniadis
-url: "https://arisantoniadis.com"
-baseurl: "/researcher"
+url: "https://arisaanto.github.io"
+baseurl: "/website-source"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
