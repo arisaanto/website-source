@@ -1,0 +1,68 @@
+128M	.
+ 43M	./_site
+ 42M	./.git/objects
+ 42M	./.git
+ 37M	./_site/Photography
+ 37M	./Photography
+5.8M	./.git/objects/33
+4.4M	./.git/objects/71
+4.3M	./.git/objects/6c
+3.5M	./.git/objects/c0
+2.9M	./.git/objects/63
+2.8M	./.git/objects/f9
+2.7M	./.git/objects/e4
+1.8M	./.git/objects/6a
+1.7M	./.git/objects/93
+1.7M	./.git/objects/45
+1.6M	./.git/objects/9c
+1.2M	./.git/objects/91
+1.0M	./.git/objects/16
+996K	./.git/objects/1f
+964K	./.git/objects/29
+860K	./.git/objects/8e
+844K	./.git/objects/37
+756K	./.git/objects/0c
+740K	./.git/objects/c9
+400K	./.git/objects/e6
+396K	./.git/objects/pack
+200K	./.git/objects/d4
+ 60K	./.git/hooks
+ 32K	./.git/objects/31
+ 16K	./_sass
+ 16K	./.jekyll-cache
+ 12K	./_site/css
+ 12K	./.jekyll-cache/Jekyll/Cache
+ 12K	./.jekyll-cache/Jekyll
+ 12K	./.git/logs
+8.0K	./_site/photos
+8.0K	./_layouts
+8.0K	./.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown
+8.0K	./.git/refs
+8.0K	./.git/logs/refs
+4.0K	./css
+4.0K	./.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b4
+4.0K	./.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ac
+4.0K	./.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7
+4.0K	./.jekyll-cache/Jekyll/Cache/Jekyll--Cache
+4.0K	./.git/refs/remotes/origin
+4.0K	./.git/refs/remotes
+4.0K	./.git/refs/heads
+4.0K	./.git/objects/cd
+4.0K	./.git/objects/c1
+4.0K	./.git/objects/b3
+4.0K	./.git/objects/b2
+4.0K	./.git/objects/aa
+4.0K	./.git/objects/a9
+4.0K	./.git/objects/8a
+4.0K	./.git/objects/80
+4.0K	./.git/objects/5e
+4.0K	./.git/objects/54
+4.0K	./.git/objects/26
+4.0K	./.git/objects/11
+4.0K	./.git/objects/08
+4.0K	./.git/logs/refs/remotes/origin
+4.0K	./.git/logs/refs/remotes
+4.0K	./.git/logs/refs/heads
+4.0K	./.git/info
+  0B	./.git/refs/tags
+  0B	./.git/objects/info
