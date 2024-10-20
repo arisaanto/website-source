@@ -9,7 +9,7 @@ Art and science are deeply interconnected - two expressions of the same desire t
 <div class="photo-grid">
 {% for i in (1..20) %}
   <div class="photo-item">
-    <img src="/Photography/{{ i }}.jpg" alt="Photo {{ i }}">
+    <img src="{{ site.baseurl }}/Photography/{{ i }}.jpg" alt="Photo {{ i }}">
   </div>
 {% endfor %}
 </div>
