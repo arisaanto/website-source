@@ -1,6 +1,6 @@
 title: Aris Antoniadis
 url: "https://arisaanto.github.io"
-baseurl: "/website-source"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,6 +17,6 @@ sass:
 
 nav:
  - name: "Photos"
-   link: "{{ site.baseurl }}/photos/"
+   link: "photos/"
  - name: "Blog"
    link: "https://www.frontalfoundations.com/blog"
