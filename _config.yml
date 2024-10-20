@@ -17,6 +17,6 @@ sass:
 
 nav:
  - name: "Photos"
-   link: "{{ site.baseurl }}/photos/"
+   link: "/website-source/photos/"
  - name: "Blog"
    link: "https://www.frontalfoundations.com/blog"
